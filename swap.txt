@@ -6,7 +6,19 @@ Julia:
 Galeria de imagens 
 Formulário de contato
 
+formulario e galeria de imagens funcionando, 
+falta modificar as floating Password
+formatando os cards de adicionar no carrinho 
+criando o js para aparecer 
+js feito
+cards em grid 
+
+
 
 
 Maju:
 Navbar
+
+Fazendo o footer
+
+Link do repositório: https://github.com/Ana-Clara-Lobo-Silveira/floricultura-bootstrap.git
