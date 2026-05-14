@@ -7,20 +7,17 @@
 </p>
 
 <h3>DESCRIÇÃO DO PROJETO</h3>
-Este projeto foi desenvolvido com o objetivo de praticar a criação de rotas e a integração com banco de dados. A aplicação permite a manipulação de dados por meio de uma interface web, utilizando Python no backend, HTML na estrutura das páginas e SQL para gerenciamento das informações no banco de dados. O projeto também envolveu a estilização e formatação de botões e elementos da interface.
 
-<h3>COMO EXECUTAR</h3>
-<P>1. Baixe os arquivos do projeto.</P>
-<P>2. Abra o arquivo e na pasta database copie esses arquivos, insira em seu workbanch e execute.</P>
-<P>3. Vá até o arquivo app.py e clique em rodar, entre no link enviado pelo terminal.</P>
+
 
 <h3>FUNCIONALIDADES DO PROJETO</h3>
-<p>Criação e gerenciamento de rotas.</p>
-<p>Integração com banco de dados.</p>
-<p>Inserção de musicas no sistema.</p>
-<p>Interface web com botões formatados.</p>
-<p>Remoção de registros</p
->
+<p>Estrutura HTML</p>
+<p>Importação do Bootstrap</p>
+<p>Construção do grid</p>
+<p>Inserção dos componentes</p>
+<p>Criação dos alertas</p>
+<p>Ajustes responsivos</p>
+
 <h3>TECNOLOGIAS DO PROJETO</h3>
 <p>Python</p>
 <p>HTML5</p>
@@ -33,6 +30,9 @@ Este projeto foi desenvolvido com o objetivo de praticar a criação de rotas e 
 
 
 
-<h3>AUTOR</h3>
-Feito por: Julia Fiscarelli Cereda
+<h3>AUTORERS</h3>
+Feito por: 
+Julia Fiscarelli Cereda
+Maria Julia Touzo
+Ana Clara Lobo Silveira
 
